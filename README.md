@@ -4,3 +4,9 @@ This repository contains the scripts that illustrate the appplication of the mul
 
 ## Reference
 Results are presented in bioRxiv preprint: [https://doi.org/10.1101/2020.05.21.109082](https://doi.org/10.1101/2020.05.21.109082)
+
+## Repository Structure
+
+* `ata`: This folder contains the input data.  
+
+* `src`: This folder contains the scripts.   
