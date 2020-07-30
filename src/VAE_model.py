@@ -167,9 +167,6 @@ output_model_file = os.path.join('figures', 'onehidden_vae_architecture_largerTC
 plot_model(vae, to_file=output_model_file)
 SVG(model_to_dot(vae).create(prog='dot', format='svg'))
 
-
-
-%%time
 hist = vae.fit(np.array(rnaseq_train_df),
                shuffle=True,
                epochs=epochs,
