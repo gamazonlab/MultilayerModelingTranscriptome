@@ -1,0 +1,12 @@
+Term	P.value	Adjusted_P.value
+Defective CHST14 causes EDS, musculocontractural type Homo sapiens R-HSA-3595174	1.10E-05	0.005610508
+Defective CHSY1 causes TPBS Homo sapiens R-HSA-3595177	1.10E-05	0.008415762
+Dermatan sulfate biosynthesis Homo sapiens R-HSA-2022923	2.88E-05	0.011001661
+CS/DS degradation Homo sapiens R-HSA-2024101	4.75E-05	0.014543348
+Chondroitin sulfate biosynthesis Homo sapiens R-HSA-2022870	9.90E-05	0.016825878
+Defective CHST3 causes SEDCJD Homo sapiens R-HSA-3595172	1.10E-05	0.016831525
+Defective B3GAT3 causes JDSSDHD Homo sapiens R-HSA-3560801	8.91E-05	0.01704357
+Defective B4GALT7 causes EDS, progeroid type Homo sapiens R-HSA-3560783	8.91E-05	0.019478365
+Defective B3GALT6 causes EDSP2 and SEMDJL1 Homo sapiens R-HSA-4420332	8.91E-05	0.022724759
+A tetrasaccharide linker sequence is required for GAG synthesis Homo sapiens R-HSA-1971475	1.69E-04	0.02348714
+Diseases associated with glycosaminoglycan metabolism Homo sapiens R-HSA-3560782	1.69E-04	0.025835854

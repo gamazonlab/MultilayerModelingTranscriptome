@@ -1,0 +1,50 @@
+Tissue	ngenes_no_comm	ngenes_with_size_lt_4	n_comm	mean	std
+Adipose Subcutaneous	15770	69	84	3.167	2.6763
+Adipose Visceral Omentum	15730	62	91	4.055	4.2462
+Adrenal Gland	15260	93	125	4.648	7.0373
+Artery Aorta	15463	73	100	4.1	4.2837
+Artery Coronary	15490	80	112	5.286	8.2163
+Artery Tibial	15402	58	78	3.718	3.9545
+Brain Amygdala	15430	71	102	7.255	13.5536
+Brain Anterior cingulate	15499	67	96	6.938	11.868
+Brain Caudate	15748	57	89	5.36	7.5032
+Brain Cerebellar	15402	106	136	5.029	8.0229
+Brain Cerebellum	15713	88	113	4.327	5.2131
+Brain Cortex	15765	60	91	5.747	8.6642
+Brain Frontal Cortex	15638	58	89	6.798	9.861
+Brain Hippocampus	15642	67	103	5.981	10.0242
+Brain Hypothalamus	15885	66	94	6.223	10.6553
+Brain Nucleus	15725	63	86	5.709	8.3525
+Brain Putamen	15470	70	96	5.604	9.0559
+Brain Spinal cord	15550	93	129	6.24	12.7788
+Brain Substantia nigra	15241	99	139	6.669	11.8099
+Breast Mammary Tissue	16050	77	98	3.704	4.7385
+Cells Cultured	14525	75	94	3.723	6.1995
+Cells EBV	14052	151	185	3.784	5.7673
+Colon Sigmoid	15811	70	92	4.391	6.0666
+Colon Transverse	15946	83	116	4.06	4.1028
+Esophagus Gastro	15609	60	86	4.64	5.8387
+Esophagus Mucosa	15556	77	105	4.038	4.4953
+Esophagus Muscularis	15573	64	86	4.14	5.0513
+Heart Atrial	15265	51	76	4.908	5.9564
+Heart L Vent	14654	51	76	4.276	4.6043
+Kidney Cortex	14667	192	251	6.116	14.1071
+Liver	14769	80	116	5.026	8.0456
+Lung	16090	74	99	4.152	4.5911
+Minor Salivary	15545	97	137	6.124	11.8639
+Muscle Skeletal	14746	63	73	2.863	2.4231
+Nerve Tibial	15975	66	84	3.798	4.228
+Ovary	15478	109	142	4.62	8.6917
+Pancreas	15297	59	80	4.012	5.0855
+Pituitary	16318	81	108	4.102	5.2651
+Prostate	16149	87	115	4.287	6.2147
+Skin Not Sun Epsd	16023	74	99	3.939	4.559
+Skin Sun Epsd	16082	64	87	3.598	3.12
+Small Intestine	15680	101	145	6.172	12.3027
+Spleen	15455	83	111	5.342	9.4654
+Stomach	15767	67	96	4.906	6.9463
+Testis	17679	70	91	3.538	3.3946
+Thyroid	15994	93	111	3.216	2.8582
+Uterus	15473	113	148	4.649	8.0395
+Vagina	15596	99	132	6.227	13.1912
+Whole Blood	14061	69	85	3.447	3.5695
