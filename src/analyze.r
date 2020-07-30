@@ -11,7 +11,6 @@ library(viridis)
 #########################################################################
 ### REACTOME & viridis color
 
-setwd("c://Users/egamazon/Dropbox/Papers/GTEx_v8_Network_Cambridge/Supplementary/")
 a = read.table('data/Hippocampus_community.txt', header=T, sep="\t")
 
 ggplot(data.frame(a), aes(x=reorder(gsub("Homo.*","",Term), -P.value), y=-log10(P.value)))  +
