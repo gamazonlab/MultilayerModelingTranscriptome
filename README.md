@@ -7,6 +7,6 @@ Results are presented in bioRxiv preprint: [https://doi.org/10.1101/2020.05.21.1
 
 ## Repository Structure
 
-* `ata`: This folder contains the input data.  
+* `data`: This folder contains the input data.  
 
 * `src`: This folder contains the scripts.   
