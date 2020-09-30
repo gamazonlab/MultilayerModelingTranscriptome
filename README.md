@@ -4,7 +4,8 @@ This repository contains the scripts that illustrate the appplication of the mul
 
 ## Reference
 Results are presented in bioRxiv preprint: [Multilayer modelling and analysis of the human transcriptome](https://doi.org/10.1101/2020.05.21.109082)  
-Tiago Azevedo, Giovanna Maria Dimitri, Pietro Lio, Eric R. Gamazon. doi: 10.1101/2020.05.21.109082  
+Tiago Azevedo, Giovanna Maria Dimitri, Pietro Lio, Eric R. Gamazon.  
+doi: 10.1101/2020.05.21.109082  
 
 ## Repository Structure
 
