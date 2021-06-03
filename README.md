@@ -5,9 +5,9 @@
 This repository contains the scripts that illustrate the appplication of the multilayer modeling approach (Azevedo T et al.) to TWAS/PrediXcan (CRP in UKB) and Variational Autoencoder (Deep Learning) model (TCGA). 
 
 ## Reference
-[Multilayer modelling and analysis of the human transcriptome](https://doi.org/10.1101/2020.05.21.109082)  
+[Multilayer modelling and analysis of the human transcriptome and biological mechanisms of complex diseases and traits](https://doi.org/10.1038/s41540-021-00186-6)  
 Tiago Azevedo, Giovanna Maria Dimitri, Pietro Lio, Eric R. Gamazon.  
-doi: 10.1101/2020.05.21.109082  
+doi: 10.1038/s41540-021-00186-6
 
 ## Repository Structure
 
